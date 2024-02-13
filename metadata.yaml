@@ -1,0 +1,28 @@
+_repo: Tirisen-kosinta-Miljoona-arpa-Toppakahvia-b-Kolme-yksinaytoksinen-pilaa_72710
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jääskeläinen, Pasi
+    alias: Jaaskelainen, Pasi
+    gutenberg_agent_id: '56781'
+    url: http://www.gutenberg.org/2009/agents/56781
+description: ''
+gutenberg_issued: '2024-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72710'
+language: fi
+pgterms:marc905: 20230413115543jskelinen
+pgterms:marc906: '1924'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kirja, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama'
+- !lcc 'PH'
+- GITenberg
+title: 'Tirisen kosinta; Miljoona-arpa; Toppakahvia : $b Kolme yksinäytöksinen pilaa'
+url: http://www.gutenberg.org/ebooks/72710
